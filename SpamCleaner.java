@@ -10,7 +10,7 @@ import java.util.Scanner;
  *  March 12th, Spring 2021
  */
 
-public class Proj3 {
+public class SpamCleaner {
 
    /**
     * The main method.
