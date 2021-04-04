@@ -5,13 +5,12 @@ import java.io.FileInputStream;
 import java.io.PrintWriter;
 import java.io.FileOutputStream;
 
-/** Project 4.
+/** Connect 4.
  *  Connor Wall
  *  cwall6
- *  500.112 Gateway Computing Java
  *  March 26th, Spring 2021
  */
-public class Proj4 {
+public class Connect4 {
    
    public static void main(String[] args) throws IOException {
       Random rnd = new Random(0);
