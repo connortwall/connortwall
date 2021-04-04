@@ -4,10 +4,9 @@ import java.io.InputStreamReader;
 import java.io.IOException;
 import java.util.Scanner;
 
-/** Project 3.
+/** Spam Cleaner.
  *  Connor Wall
  *  cwall6
- *  500.112 Gateway Computing Java
  *  March 12th, Spring 2021
  */
 
